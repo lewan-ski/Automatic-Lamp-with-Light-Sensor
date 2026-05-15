@@ -36,7 +36,7 @@ The system uses a **Light Dependent Resistor (LDR)** to detect ambient light int
 ---
 
 ## 🛠️ Circuit Diagram
-*(Insert circuit diagram image here if available)*
+[Circuit Diagram]([https://www.youtube.com/watch?v=mHBG2sBcyTM](https://www.build-electronic-circuits.com/wp-content/uploads/2020/03/Night-Light-circuit-diagram.png))
 
 ---
 
